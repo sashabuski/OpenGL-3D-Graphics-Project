@@ -1,42 +1,178 @@
 ﻿  project.c
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(223,41): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(224,41): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(225,41): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(230,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(231,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(232,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(235,35): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(237,36): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(268,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(268,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(279,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(279,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(315,19): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(323,16): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(323,23): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(323,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(329,16): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(329,23): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(329,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(335,16): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(335,23): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(335,31): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(342,16): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(342,23): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(342,31): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(350,16): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(350,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(350,32): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(356,16): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(356,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(356,33): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(363,16): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(363,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(363,31): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(369,16): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(369,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(369,31): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(647,18): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(281,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(433,23): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(437,52): warning C4020: 'drawSpotlight': too many actual parameters
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(438,53): warning C4020: 'drawSpotlight': too many actual parameters
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(439,52): warning C4020: 'drawSpotlight': too many actual parameters
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(440,52): warning C4020: 'drawSpotlight': too many actual parameters
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(441,53): warning C4020: 'drawSpotlight': too many actual parameters
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(442,53): warning C4020: 'drawSpotlight': too many actual parameters
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(443,53): warning C4020: 'drawSpotlight': too many actual parameters
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(453,37): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(453,40): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(453,43): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(469,49): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(471,78): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(472,76): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(394,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(395,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(396,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(398,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(400,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(734,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(754,29): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(799,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(800,25): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(806,25): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(812,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(817,26): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(823,25): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(796,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(797,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(809,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(810,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(820,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(821,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(865,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(866,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(867,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(906,35): warning C4047: 'function': 'GLuint *' differs in levels of indirection from 'Texture3D (*)'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(906,19): warning C4024: 'glGenTextures': different types for formal and actual parameter 2
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(907,46): warning C4047: 'function': 'GLuint' differs in levels of indirection from 'Texture3D'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(907,31): warning C4024: 'glBindTexture': different types for formal and actual parameter 2
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(925,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(928,25): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(936,25): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(944,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(951,26): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(959,25): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(990,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(990,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(995,28): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(996,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1001,29): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1002,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(895,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(917,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(918,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(919,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(921,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(939,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(940,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(954,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(955,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(905,9): warning C4101: 'textureID': unreferenced local variable
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1022,16): warning C4101: 'i': unreferenced local variable
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1069,44): warning C4047: 'function': 'GLuint' differs in levels of indirection from 'Texture3D'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1069,31): warning C4024: 'glBindTexture': different types for formal and actual parameter 2
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1107,17): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1107,35): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1110,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1110,42): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1113,17): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1113,42): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1116,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1116,42): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1119,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1119,49): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1122,17): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1122,42): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1099,25): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1100,47): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1156,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1158,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1161,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1162,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1167,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1168,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1151,35): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1153,35): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1273,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1311,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1322,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1282,29): warning C4101: 'i': unreferenced local variable
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1337,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1337,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1345,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1345,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1389,20): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1398,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1398,26): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1398,35): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1406,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1406,26): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1406,35): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1414,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1414,26): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1414,36): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1422,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1422,26): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1422,36): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1430,20): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1430,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1438,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1438,27): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1438,37): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1446,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1446,27): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1446,37): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1448,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1448,28): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1455,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1455,27): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1455,37): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1457,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1457,28): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1464,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1464,27): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1464,37): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1472,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1472,27): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1472,38): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1480,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1480,27): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1480,36): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1488,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1488,27): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1488,36): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1353,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1354,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1355,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1512,12): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1525,20): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1533,20): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1541,20): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1549,20): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1557,20): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1557,29): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1569,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1569,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1579,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1579,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1498,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1499,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1500,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1586,102): warning C4029: declared formal parameter list different from definition
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1622,25): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1622,41): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1622,55): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1593,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1593,53): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1593,66): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1675,18): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1750,35): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1874,28): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1887,28): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1898,27): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1905,27): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1678,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1679,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1805,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1806,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1862,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1863,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1893,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\project.c(1894,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   GraphicsProject.vcxproj -> C:\Users\Admin\source\repos\GraphicsProject\Debug\GraphicsProject.exe
   C:\Users\Admin\source\repos\GraphicsProject\GraphicsProject\freeglut\bin\freeglut.dll
   1 File(s) copied
